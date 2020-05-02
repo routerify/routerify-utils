@@ -1,2 +1,3 @@
 # routerify-utils
-Some utilities
+
+An utility library to work with [Routerify](https://github.com/routerify/routerify).
